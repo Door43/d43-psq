@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[psq:home|Door43 (psq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-psq|d43-psq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-psq/archive/master.zip|d43-psq.zip]]
+
+**Recent Changes**
+{{changes>ns = psq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/psq|Ethnologue data]]
+
